@@ -1,0 +1,24 @@
+Q1.
+Illegal names:
+and <It's a reserved word>
+1var <A name cannot start with a number>
+my-name <A name cannot contain '-'>
+
+Q2.
+a = False         #Boolean
+b = 3.7           #Floating point
+c = ‘Alex‘        #String
+d = 7             #Integer
+e = ‘True‘        #String
+f = 17j           #Complex number
+g = ‘17‘          #String
+h = True          #Boolean
+i = ’3.14159’     #String
+
+Q3.
+b and c 	False
+b or c 		True
+not a and b 	True
+(a and b) or not c 		True
+not b and not (a or c) 		False
+
